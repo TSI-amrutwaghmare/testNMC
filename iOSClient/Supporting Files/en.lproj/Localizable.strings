@@ -936,6 +936,9 @@
 "_recipients_"              = "Recipients";
 "_are_sure_"                = "Are you sure?";
 
+"file 2"                        = "File 2 change";
+"file2 modify"                  = "File 2 Modify";
+
 // Video
 "_select_trace_"            = "Select the trace";
 "_video_processing_"        = "Video processing";
