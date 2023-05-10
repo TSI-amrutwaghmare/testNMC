@@ -999,3 +999,6 @@
 "Mantis.Reset"                  = "Reset";
 "Mantis.Original"               = "Original";
 "Mantis.Square"                 = "Square";
+
+"file 1"                        = "File 1 change";
+"file1 modify"                  = "File 1 Modify";
